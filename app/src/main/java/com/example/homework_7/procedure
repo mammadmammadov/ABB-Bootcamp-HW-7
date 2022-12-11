@@ -1,0 +1,20 @@
+1) Create Empty Project
+
+2) Create UI package and fragments package inside that
+
+3) Create blank fragments and remove unnecessary parts
+
+4) Convert Fragment Layout to Constraint Layout in XML files of activities
+
+5) Create  Android resource directory navigation inside res and create navigation resource file
+
+6) Add fragments to navigation resource file, make necessary design changes for fragments if there is need
+
+7) Do View Binding in build.gradle, then in each fragment
+
+8) Create vector asset for FAB
+
+9) Add FAB and change the color of vector asset in the coding part using app:tint
+
+
+
